@@ -1,0 +1,1 @@
+# MONIT \[%{SYSLOGTIMESTAMP:timestamp}\]%{SPACE} %{WORD:state}%{SPACE}: %{GREEDYDATA:message}
