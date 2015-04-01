@@ -50,7 +50,9 @@ public class HornetConsumer{
 			}			
 		}  catch (Exception e) {
 			// TODO Auto-generated catch block
+			System.out.println("consumer starts failed!");
 			e.printStackTrace();
+			System.exit(0);
 		}
 	}
 	

@@ -45,7 +45,7 @@ public class LogAnalyser {
 	// log位置
 	/*private ConcurrentMap<String, Integer> fileLineMap = new ConcurrentHashMap<String, Integer>();*/
 	
-	private Map<String, Integer> fileLineMap = new HashMap<String, Integer>();
+	//private Map<String, Integer> fileLineMap = new HashMap<String, Integer>();
 
 	// log文件名
 	private HashMap<String, String> fileNameMap = new HashMap<String, String>();
@@ -171,12 +171,12 @@ public class LogAnalyser {
 		}
 		//time in msg isn't same as the system.currentTime();
 		currentDate = new Date(counter.getStartPoint());
-
+/*
 		if (!fileLineMap.containsKey(source)) {
 			fileLineMap.put(source, 1);
 		} else {
 			fileLineMap.put(source, fileLineMap.get(source) + 1);
-		}		
+		}	*/	
 		
 		if (counter.count()) {
 			if (!fileNameMap.isEmpty()) {
@@ -198,7 +198,7 @@ public class LogAnalyser {
 			filecontent.put("app", appInstanceName);
 			filecontent.put("line", line);
 			filecontent.put("timestamp", DateUtils.format(new Date()));
-			ElasticsearchClient.getInstance().uploadLogfile(filecontent);
+			ElasticsearchClient.getInstance().uploadLogfile(filecontent,appInstanceName);
 		}
 
 		/* send appdata or routerdata to bamos and elasticsearch */
@@ -245,7 +245,7 @@ public class LogAnalyser {
 						map.put("fileName", fileNameMap.get(source));
 						map.put("line", line);
 						for(int i=0;i<match.getCount();i++){
-							ElasticsearchClient.getInstance().uploadJson(map);
+							ElasticsearchClient.getInstance().uploadJson(map,appInstanceName);
 						}
 					} catch (GrokException e) {
 						logger.error("grok exception", e);
@@ -269,17 +269,17 @@ public class LogAnalyser {
 				return;
 			}
 			
-			HashMap<String, Object> routerdata = new HashMap<String, Object>();
+			//HashMap<String, Object> routerdata = new HashMap<String, Object>();
 			HashMap<String, Object> esRouterData = new HashMap<String, Object>();
-			routerdata.put("serviceName", routerLog.getString("clientip")
-					+ routerLog.getString("request"));
+			//routerdata.put("serviceName", routerLog.getString("clientip")
+			//		+ routerLog.getString("request"));
 			esRouterData.put("serviceName", appInstanceName);
 			if(routerLog.getString("time").endsWith("+0000")){
 				try {
-					routerdata.put(
+					/*routerdata.put(
 							"timestamp",
 							DateUtils.parse(routerLog.getString("time"),
-									ZONE1_DATE_FORMAT).getTime());
+									ZONE1_DATE_FORMAT).getTime());*/
 					esRouterData.put("timestamp", DateUtils.format(DateUtils.parse(
 							routerLog.getString("time"), ZONE1_DATE_FORMAT)));
 					// esRouterData.put("timestamp",routerLog.getString("time"));
@@ -288,10 +288,10 @@ public class LogAnalyser {
 				}
 			}else{
 				try {
-					routerdata.put(
+					/*routerdata.put(
 							"timestamp",
 							DateUtils.parse(routerLog.getString("time"),
-									ZONE1_CH_DATE_FORMAT).getTime());
+									ZONE1_CH_DATE_FORMAT).getTime());*/
 					esRouterData.put("timestamp", DateUtils.format(DateUtils.parse(
 							routerLog.getString("time"), ZONE1_CH_DATE_FORMAT)));
 				} catch (ParseException e1) {
@@ -299,14 +299,14 @@ public class LogAnalyser {
 				}
 			}
 			
-			routerdata.put("responseTime",
-					routerLog.getString("request_duration"));
+			//routerdata.put("responseTime",
+			//		routerLog.getString("request_duration"));
 			esRouterData.put("responseTime",
 					routerLog.getDouble("request_duration")*1000);
 
 			esRouterData.put("eventType", "access");
-
-			ElasticsearchClient.getInstance().uploadJson(esRouterData);
+			logger.info(line);
+			ElasticsearchClient.getInstance().uploadJson(esRouterData,appInstanceName);
 		}
 	}
 	

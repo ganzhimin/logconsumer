@@ -1,8 +1,5 @@
 package com.zju.logservice.util;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
@@ -20,9 +17,9 @@ import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
  */
 public class ElasticsearchClient {
 	private static final Logger logger = Logger.getLogger(ElasticsearchClient.class);
-	private static String JSONINDEX = "logs";
-	private static String LOGINDEX = "logfiles";
-	private static String DTYPE = "traditional";
+	
+	private static String FILETYPE = "logfiles";
+	private static String LOGTYPE = "logs";
 	
 	private static Client client;
 	private static ElasticsearchClient instance = null;
@@ -41,13 +38,15 @@ public class ElasticsearchClient {
 		}
 		return instance;
 	}
+	
 	/**
      * 上传单条json数据
      * @param json : String
      */
-	public void uploadJson(Map<String, Object> json){
-		uploadJson( json , JSONINDEX , DTYPE);
+	public void uploadJson(Map<String, Object> json,String indexName){
+		uploadJson( json , indexName , LOGTYPE);
 	}
+	
     /**
      * 上传单条json数据
      * @param indexName : String
@@ -60,20 +59,15 @@ public class ElasticsearchClient {
     }
 
     /**
-     * 上传单条log数据
-     * @param type : String
+     * 上传单条logfile数据
+     * @param indexName : String
      */
-    public void uploadLogfile(HashMap<String, Object> log){
-    	uploadLogfile(log,LOGINDEX, DTYPE);
+    public void uploadLogfile(HashMap<String, Object> log,String indexName){
+    	uploadLogfile(log,indexName, FILETYPE);
     }
     
-    /**
-     * 上传单条logfile数据
-     * @param type : String
-     */
-    public void uploadLogfile(HashMap<String, Object> log,String type){
-    	uploadLogfile(log,LOGINDEX, type);
-    }
+    
+    
     /**
      * 上传单条log数据
      * @param log : String
@@ -173,7 +167,7 @@ public class ElasticsearchClient {
             	jsonHashMap.put("fileName", "2014-07-19-9 10");
             	jsonHashMap.put("timestamp", "2014-09-10 15:38:07");
             	jsonHashMap.put("companyName", "test");
-            	ElasticsearchClient.getInstance().uploadJson(jsonHashMap,"logtest",DTYPE);
+            	ElasticsearchClient.getInstance().uploadJson(jsonHashMap,"logtest",LOGTYPE);
     		}
     		System.out.println(System.currentTimeMillis()-start);
     		
