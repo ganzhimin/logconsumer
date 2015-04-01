@@ -20,11 +20,11 @@ import com.zju.logservice.writer.LogAnalyser;
  * @author laogan
  *
  */
-public class HornetConsumer{
+public class LogConsumer{
 	private ClientSessionFactory csf;
 	
 	
-	public HornetConsumer(String host, String port,String consumerNum){
+	public LogConsumer(String host, String port,String consumerNum){
 		Map<String, Object> connParams = new HashMap<String, Object>();
 		connParams.put(TransportConstants.HOST_PROP_NAME, "10.10.105.107");
 		connParams.put(TransportConstants.PORT_PROP_NAME, "5445");
@@ -60,8 +60,8 @@ public class HornetConsumer{
 		return csf;
 	}
 	public static void main(String[] args){
-		HornetConsumer hc = null;
-		hc =new HornetConsumer(args[0],args[1],args[2]);
+		LogConsumer hc = null;
+		hc =new LogConsumer(args[0],args[1],args[2]);
 		Runtime.getRuntime().addShutdownHook(new ShutdownThread(hc.getClientSessionFactory()));
 		System.out.println("consumer starts successfully!");
 		while(true);
