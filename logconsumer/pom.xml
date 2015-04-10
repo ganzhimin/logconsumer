@@ -183,7 +183,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass>com.zju.logservice.receiver.HornetConsumer</mainClass>
+							<mainClass>com.zju.logservice.receiver.LogConsumer</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
