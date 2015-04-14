@@ -22,47 +22,49 @@ import com.zju.logservice.writer.LogAnalyser;
  */
 public class LogConsumer{
 	private ClientSessionFactory csf;
+	private LogAnalyser analyser;
+	private int consumerNum;
 	
-	
-	public LogConsumer(String host, String port,String consumerNum){
+	public LogConsumer(String host, String port,String consumerNum) throws Exception{
 		Map<String, Object> connParams = new HashMap<String, Object>();
 		connParams.put(TransportConstants.HOST_PROP_NAME, "10.10.105.107");
 		connParams.put(TransportConstants.PORT_PROP_NAME, "5445");
 		TransportConfiguration config = new TransportConfiguration(NettyConnectorFactory.class.getName(), connParams);
 
 		ServerLocator serverLocator = HornetQClient.createServerLocatorWithoutHA(config);
+		serverLocator.setReconnectAttempts(-1);
+		serverLocator.setConsumerWindowSize(-1);
+		csf = serverLocator.createSessionFactory();
 		
-		LogAnalyser analyser = new LogAnalyser(new CacheUtil());
 		
-		try {
-			csf = serverLocator.createSessionFactory();
+		CacheUtil cu = new CacheUtil();
+		analyser = new LogAnalyser(cu);
+		
+		this.consumerNum = Integer.parseInt(consumerNum);
+		
+		Runtime.getRuntime().addShutdownHook(new ShutdownThread(csf,cu));
+	}
+		
+	public void start() throws Exception{
+		for(int i=0;i<this.consumerNum;i++){
+			ClientSession session = csf.createTransactedSession();
 			
-			int csmNum = Integer.parseInt(consumerNum);
+			session.start();
 			
-			for(int i=0;i<csmNum;i++){
-				ClientSession session = csf.createTransactedSession();
-				
-				session.start();
-				
-				ClientConsumer consumer = session.createConsumer("jms.queue.sourceQueue");
-				
-				consumer.setMessageHandler(new MyMessageHandler(analyser,session));
-			}			
-		}  catch (Exception e) {
-			// TODO Auto-generated catch block
-			System.out.println("consumer starts failed!");
-			e.printStackTrace();
-			System.exit(0);
-		}
+			ClientConsumer consumer = session.createConsumer("jms.queue.sourceQueue");
+			
+			consumer.setMessageHandler(new MyMessageHandler(analyser,session));
+		}			
 	}
 	
-	public ClientSessionFactory getClientSessionFactory(){
-		return csf;
-	}
 	public static void main(String[] args){
-		LogConsumer hc = null;
-		hc =new LogConsumer(args[0],args[1],args[2]);
-		Runtime.getRuntime().addShutdownHook(new ShutdownThread(hc.getClientSessionFactory()));
+		try {
+			new LogConsumer(args[0],args[1],args[2]).start();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			System.out.println("consumer starts failed!");
+			System.exit(-1);
+		}
 		System.out.println("consumer starts successfully!");
 		while(true);
 	}
