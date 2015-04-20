@@ -5,12 +5,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.apache.log4j.Logger;
-import org.elasticsearch.action.admin.indices.create.CreateIndexRequestBuilder;
-import org.elasticsearch.action.admin.indices.exists.indices.IndicesExistsResponse;
 import org.elasticsearch.client.Client;
-import org.elasticsearch.common.xcontent.XContentBuilder;
 
-import static org.elasticsearch.common.xcontent.XContentFactory.jsonBuilder;
 /*
  * author:haochengsong
  * time:2014.8.8 16:00
@@ -40,11 +36,19 @@ public class ElasticsearchClient {
 	}
 	
 	/**
-     * 上传单条json数据
+     * 上传分析过的日志数据
      * @param json : String
      */
-	public void uploadJson(Map<String, Object> json,String indexName){
-		uploadJson( json , indexName , LOGTYPE);
+	public void uploadParsedLog(Map<String, Object> json,String indexName){
+		uploadJson(json, indexName, LOGTYPE);
+	}
+	
+	/**
+     * 上传日志文件
+     * @param json : String
+     */
+	public void uploadLogFile(Map<String, Object> json,String indexName){
+		uploadJson(json, indexName, FILETYPE);
 	}
 	
     /**
@@ -53,7 +57,7 @@ public class ElasticsearchClient {
      * @param type : String
      * @param json : String
      */
-    public void uploadJson( Map<String, Object> json,String indexName, String type) {
+    private void uploadJson(Map<String, Object> json,String indexName, String type) {
          client.prepareIndex(indexName, type)
                 .setSource(json).execute().actionGet();
     }
@@ -61,11 +65,11 @@ public class ElasticsearchClient {
     /**
      * 上传单条logfile数据
      * @param indexName : String
-     */
+     
     public void uploadLogfile(HashMap<String, Object> log,String indexName){
     	uploadLogfile(log,indexName, FILETYPE);
     }
-    
+    */
     
     
     /**
@@ -73,12 +77,12 @@ public class ElasticsearchClient {
      * @param log : String
      * @param indexName : String
      * @param type : String
-     */
+     
     public void uploadLogfile(HashMap<String, Object> log,String indexName,String type){
     	client.prepareIndex(indexName, type)
     			.setSource(log).execute().actionGet();
     }
-    
+    */
     /**
      * 设定指点field为date格式，
      * @param indexName : String
@@ -86,6 +90,7 @@ public class ElasticsearchClient {
      * @param field : String
      * @throws IOException 
      */
+    /*
     public void initLogfiles(String indexName, String type,String... fields) throws IOException {	
     	SetMapping mapping = new SetMapping(type);
         
@@ -136,7 +141,7 @@ public class ElasticsearchClient {
         	logger.info("index logs exist");
 		}
 	}
-    
+    */
     public static void main( String[] args ){
     	//String[] fields = {"timestamp","fileName"};
     	try {

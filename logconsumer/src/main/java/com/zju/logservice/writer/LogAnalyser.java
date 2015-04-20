@@ -196,7 +196,7 @@ public class LogAnalyser {
 			filecontent.put("app", appInstanceName);
 			filecontent.put("line", line);
 			filecontent.put("timestamp", DateUtils.format(new Date()));
-			ElasticsearchClient.getInstance().uploadLogfile(filecontent,appInstanceName);
+			ElasticsearchClient.getInstance().uploadLogFile(filecontent,appInstanceName);
 		}
 
 		/* send appdata or routerdata to bamos and elasticsearch */
@@ -244,7 +244,7 @@ public class LogAnalyser {
 						map.put("fileName", fileNameMap.get(source));
 						map.put("line", line);
 						for(int i=0;i<match.getCount();i++){
-							ElasticsearchClient.getInstance().uploadJson(map,appInstanceName);
+							ElasticsearchClient.getInstance().uploadParsedLog(map,appInstanceName);
 						}
 					} catch (GrokException e) {
 						logger.error("grok exception", e);
@@ -305,7 +305,7 @@ public class LogAnalyser {
 
 			esRouterData.put("eventType", "access");
 			logger.info(line);
-			ElasticsearchClient.getInstance().uploadJson(esRouterData,appInstanceName);
+			ElasticsearchClient.getInstance().uploadParsedLog(esRouterData,appInstanceName);
 		}
 	}
 	
