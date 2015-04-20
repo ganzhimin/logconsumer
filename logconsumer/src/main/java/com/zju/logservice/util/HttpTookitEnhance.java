@@ -2,7 +2,6 @@ package com.zju.logservice.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
@@ -21,7 +20,7 @@ import org.apache.http.impl.client.DefaultHttpClient;
 import org.apache.http.message.BasicNameValuePair;
 
 public class HttpTookitEnhance {
-	private static HttpClient client = new DefaultHttpClient();
+	//private static HttpClient client = new DefaultHttpClient();
 
 	/**
 	 * 
@@ -33,30 +32,46 @@ public class HttpTookitEnhance {
 	 * @throws IOException
 	 */
 	public static String doGet(String url, String queryString, boolean pretty) throws Exception {
+		HttpClient client = new DefaultHttpClient();
 		StringBuffer response = new StringBuffer();
-		HttpGet method;	
-		if (queryString != null && !queryString.equals("")) {
-			url = url + "?" + queryString;
-		}
-		System.out.println(url);
-		 method=new HttpGet(url);
-		HttpResponse httpResponse = client.execute(method);
-		if (httpResponse.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
-			HttpEntity httpEntity = httpResponse.getEntity();
-			BufferedReader reader = new BufferedReader(new InputStreamReader(httpEntity.getContent(), "utf-8"));
-			String line;
-			while ((line = reader.readLine()) != null) {
-				if (pretty) {
-					response.append(line).append(System.getProperty("line.separator"));
-				} else {
-					response.append(line);
-				}
+		HttpGet method = null;
+		HttpResponse httpResponse;
+		BufferedReader reader = null;
+		try{
+				
+			if (queryString != null && !queryString.equals("")) {
+				url = url + "?" + queryString;
 			}
-			reader.close();
+			System.out.println(url);
+			 method=new HttpGet(url);
+			 httpResponse = client.execute(method);
+			if (httpResponse.getStatusLine().getStatusCode() == HttpStatus.SC_OK) {
+				HttpEntity httpEntity = httpResponse.getEntity();
+				reader = new BufferedReader(new InputStreamReader(httpEntity.getContent(), "utf-8"));
+				String line;
+				while ((line = reader.readLine()) != null) {
+					if (pretty) {
+						response.append(line).append(System.getProperty("line.separator"));
+					} else {
+						response.append(line);
+					}
+				}
+				
+			}
+			
+		}finally{
+			if (reader != null) {
+				reader.close();
+			}
+			if (method != null) {
+				method.abort();
+			}
+			client.getConnectionManager().shutdown();
 		}
+		
 		return response.toString();
 	}
-
+/*
 	public static InputStream doGetImage(String url) throws Exception{
 		InputStream in = null;
 		HttpGet method = new HttpGet(url);
@@ -67,7 +82,7 @@ public class HttpTookitEnhance {
 		}
 		return in;
 	}
-	
+	*/
 	public static void main(String[] args) throws Exception {
 		String queryString="appid="+"ef33f87f-25bb-4334-9807-4bfdd1c15db8";
 		String patterns=HttpTookitEnhance.doGet("http://10.10.102.101:1234/cfWeb/rest/app/patterns"

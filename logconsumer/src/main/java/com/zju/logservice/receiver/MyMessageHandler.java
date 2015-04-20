@@ -1,11 +1,17 @@
 package com.zju.logservice.receiver;
 
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
 import org.apache.log4j.Logger;
 import org.hornetq.api.core.HornetQException;
 import org.hornetq.api.core.client.ClientMessage;
 import org.hornetq.api.core.client.ClientSession;
 import org.hornetq.api.core.client.MessageHandler;
+
 import com.zju.logservice.writer.LogAnalyser;
 
 public class MyMessageHandler implements MessageHandler {
@@ -30,6 +36,31 @@ public class MyMessageHandler implements MessageHandler {
 		} catch (HornetQException e) {
 			// TODO Auto-generated catch block
 			logger.error("HornetQException,this session will be closed");
+			
+			
+			File f = new File(System.getProperty("user.home")+"/hornetQBug.txt");
+			FileOutputStream fs = null;
+			try {
+				fs = new FileOutputStream(f,true);
+				fs.write("=================================================\n\n\n".getBytes());
+				fs.write(e.getMessage().getBytes());
+			} catch (FileNotFoundException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}finally{
+				try {
+					fs.close();
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+			}
+			
+			
+			
 			try {
 				session.close();
 			} catch (HornetQException e1) {

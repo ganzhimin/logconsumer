@@ -83,12 +83,13 @@ public class LogAnalyser {
 		}
 	}
 
-	public void processMsg(String msg,int line) {
+	public void processMsg(String msg,int line){
 		if (counter == null) {
 			counter = new Countdown(timeLength);
 		}
+		JSONObject jsonLog;
 		try {
-			JSONObject jsonLog = JSONObject
+			jsonLog = JSONObject
 					.fromObject(lp.grokParse(msg, "MSG"));
 			if (!jsonLog.isEmpty() && jsonLog.getString("Source").equals("GP")) {
 				persistPatterns(jsonLog.getString("appid"));
@@ -99,8 +100,11 @@ public class LogAnalyser {
 				analyseLog(msg,line);
 			}
 		} catch (Exception e) {
-			logger.error("process message error",e);
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
+		
+		
 	}
 	private Object persistPatterns(String appid) throws Exception {
 		String queryString = "appId=" + appid;
@@ -171,12 +175,6 @@ public class LogAnalyser {
 		}
 		//time in msg isn't same as the system.currentTime();
 		currentDate = new Date(counter.getStartPoint());
-/*
-		if (!fileLineMap.containsKey(source)) {
-			fileLineMap.put(source, 1);
-		} else {
-			fileLineMap.put(source, fileLineMap.get(source) + 1);
-		}	*/	
 		
 		if (counter.count()) {
 			if (!fileNameMap.isEmpty()) {
@@ -211,7 +209,8 @@ public class LogAnalyser {
 				try {
 				object=persistPatterns(appid);
 				} catch (Exception e) {
-				logger.error("get patterns error");;
+				logger.error("get patterns error");
+				e.printStackTrace();
 				}
 			}
 			List<String> list = object==null?null:(List<String>)object ;
@@ -224,7 +223,7 @@ public class LogAnalyser {
 						logger.info("not correct patternName in list");
 						continue;
 					}
-						
+
 					try {
 						match = (MatchWithCount) lp.grokParseToMapForApp(msg, patternName+":source",appid);
 						map=match.toMap();
@@ -349,7 +348,7 @@ public class LogAnalyser {
 		//num of instances can't lg than 9.
 		stringBuffer.append(source.substring(source.indexOf("/") + 1));
 		stringBuffer.append("-");
-		stringBuffer.append((df.format(currentDate)));
+		stringBuffer.append((df.format(time)));
 		return stringBuffer.toString();
 	}
 

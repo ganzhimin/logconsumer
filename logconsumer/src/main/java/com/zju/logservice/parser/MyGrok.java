@@ -179,7 +179,7 @@ public class MyGrok extends Grok {
 	   * @throws GrokException
 	   */
 	  public void addPatternFromFile(String file) throws GrokException {
-
+		System.out.println(file);
 	    File f = new File(file);
 	    if (!f.exists()) {
 	      throw new GrokException("Pattern not found");

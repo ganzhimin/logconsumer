@@ -1,6 +1,8 @@
 package com.zju.logservice.receiver;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 import org.hornetq.api.core.TransportConfiguration;
@@ -23,7 +25,7 @@ import com.zju.logservice.writer.LogAnalyser;
 public class LogConsumer{
 	private ClientSessionFactory csf;
 	private LogAnalyser analyser;
-	private int consumerNum;
+	private List<ClientSession> lcs;
 	
 	public LogConsumer(String host, String port,String consumerNum) throws Exception{
 		Map<String, Object> connParams = new HashMap<String, Object>();
@@ -34,26 +36,27 @@ public class LogConsumer{
 		ServerLocator serverLocator = HornetQClient.createServerLocatorWithoutHA(config);
 		serverLocator.setReconnectAttempts(-1);
 		serverLocator.setConsumerWindowSize(-1);
-		csf = serverLocator.createSessionFactory();
+		serverLocator.setBlockOnAcknowledge(false);
 		
+		csf = serverLocator.createSessionFactory();
+		lcs = new ArrayList<ClientSession>();
+		int num = Integer.parseInt(consumerNum);
+		for(int i=0;i<num;i++){
+			ClientSession session = csf.createTransactedSession();
+			lcs.add(session);
+		}
 		
 		CacheUtil cu = new CacheUtil();
 		analyser = new LogAnalyser(cu);
-		
-		this.consumerNum = Integer.parseInt(consumerNum);
-		
-		Runtime.getRuntime().addShutdownHook(new ShutdownThread(csf,cu));
+
+		Runtime.getRuntime().addShutdownHook(new ShutdownThread(csf,lcs));
 	}
 		
 	public void start() throws Exception{
-		for(int i=0;i<this.consumerNum;i++){
-			ClientSession session = csf.createTransactedSession();
-			
-			session.start();
-			
-			ClientConsumer consumer = session.createConsumer("jms.queue.sourceQueue");
-			
-			consumer.setMessageHandler(new MyMessageHandler(analyser,session));
+		for(ClientSession cs:lcs){
+			cs.start();
+			ClientConsumer consumer = cs.createConsumer("jms.queue.sourceQueue");
+			consumer.setMessageHandler(new MyMessageHandler(analyser,cs));
 		}			
 	}
 	

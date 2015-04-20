@@ -1,5 +1,10 @@
 package com.zju.logservice.logconsumer;
 
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+import com.zju.logservice.util.CacheUtil;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -7,7 +12,7 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class CacheUtilTest 
     extends TestCase
 {
     /**
@@ -15,7 +20,7 @@ public class AppTest
      *
      * @param testName name of the test case
      */
-    public AppTest( String testName )
+    public CacheUtilTest( String testName )
     {
         super( testName );
     }
@@ -25,7 +30,7 @@ public class AppTest
      */
     public static Test suite()
     {
-        return new TestSuite( AppTest.class );
+        return new TestSuite( CacheUtilTest.class );
     }
 
     /**
@@ -35,4 +40,6 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+   
 }

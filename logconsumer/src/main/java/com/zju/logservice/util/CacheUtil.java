@@ -1,6 +1,13 @@
 package com.zju.logservice.util;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.net.URL;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
 
 import net.sf.ehcache.Cache;
 import net.sf.ehcache.CacheManager;
@@ -16,10 +23,43 @@ public class CacheUtil {
 
 	public CacheUtil() {
 		System.setProperty("net.sf.ehcache.enableShutdownHook","true");
+		
 	}
 
 	private Cache getCache() {
-		cacheManager =CacheManager.newInstance(url);
+		try{
+			//cacheManager =CacheManager.newInstance(url);
+			cacheManager = CacheManager.create(url);
+		}catch(Exception e){
+			e.printStackTrace();
+			File f = new File(System.getProperty("user.home")+"/logservice/bugs.txt");
+			FileOutputStream fs = null;
+			try {
+				fs = new FileOutputStream(f,true);
+				fs.write("\n=================================================\n".getBytes());
+				StackTraceElement[] ss = e.getStackTrace();
+				String res = "";
+				for(StackTraceElement s:ss){
+					res+=s.getClassName()+": ["+s.getLineNumber()+"] - "+s.getMethodName()+"\n";
+				}
+				
+				
+				fs.write((e.getMessage()+"\n"+res).getBytes());
+			} catch (FileNotFoundException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}finally{
+				try {
+					fs.close();
+				} catch (IOException e1) {
+					// TODO Auto-generated catch block
+					e1.printStackTrace();
+				}
+			}
+		}
 		return cacheManager.getCache("patternCache");
 	}
 
@@ -40,10 +80,11 @@ public class CacheUtil {
 	public Object getData(String key) {
 		Cache cache = getCache();
 		Element element=cache.get(key);
+		Object obj = null;
 		if(element!=null){
-			return element.getObjectValue();
+			obj = element.getObjectValue();
 		}
-		return null;
+		return obj;
 	}
 
 	public void shutdown() {
@@ -56,13 +97,13 @@ public class CacheUtil {
 	}
 
 	public static void main(String[] args) {
-		CacheUtil cacheUtil = new CacheUtil();
-
-		cacheUtil.cacheData("test1", "test2");
-		String patterns = (String) cacheUtil.getData("test");
-		// for(String pattern:patterns){
-		System.out.println(patterns);
-		// }
-
+		//CacheUtil cu = new CacheUtil();
+    	
+    	//int size = 20;
+    	//ExecutorService es = Executors.newFixedThreadPool(size);
+    	
+    	//for(int i=0;i<size;i++){
+    		//es.execute(new MyThread(cu, "name", "laogan", "tid"+i));
+    	//}
 	}
 }

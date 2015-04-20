@@ -35,7 +35,8 @@ public class LogParserUtil {
 		Properties props = new Properties();
 		try {
 			props.load(in);
-			patterns_path = props.getProperty("pattern_location");	
+			String userHome = System.getProperty("user.home");
+			patterns_path = userHome+"/"+props.getProperty("pattern_location");	
 		} catch (IOException e) {
 			logger.error("init pattern path fail");
 		}
