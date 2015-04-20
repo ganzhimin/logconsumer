@@ -22,8 +22,8 @@ public class ElasticsearchClient {
 	private static String LOGTYPE = "logs";
 	
 	private static Client client;
-	private static ElasticsearchClient instance = null;
-	private static Object lock = new Object();
+	private volatile static ElasticsearchClient instance = null;
+	//private static Object lock = new Object();
 	private ElasticsearchClient(){
 		client =ConnectES.getInstance().getClient();
 		logger.info("init es client success!");
@@ -31,7 +31,7 @@ public class ElasticsearchClient {
 	
 	public static ElasticsearchClient getInstance(){
 		if(instance == null){
-			synchronized(lock){
+			synchronized(ElasticsearchClient.class){
 				if(instance == null)
 					instance = new ElasticsearchClient();
 			}
