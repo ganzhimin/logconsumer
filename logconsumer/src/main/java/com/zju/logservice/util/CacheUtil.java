@@ -1,13 +1,6 @@
 package com.zju.logservice.util;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
 import java.net.URL;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-
 
 import net.sf.ehcache.Cache;
 import net.sf.ehcache.CacheManager;
@@ -23,43 +16,11 @@ public class CacheUtil {
 
 	public CacheUtil() {
 		System.setProperty("net.sf.ehcache.enableShutdownHook","true");
-		
 	}
 
 	private Cache getCache() {
-		try{
 			//cacheManager =CacheManager.newInstance(url);
-			cacheManager = CacheManager.create(url);
-		}catch(Exception e){
-			e.printStackTrace();
-			File f = new File(System.getProperty("user.home")+"/logservice/bugs.txt");
-			FileOutputStream fs = null;
-			try {
-				fs = new FileOutputStream(f,true);
-				fs.write("\n=================================================\n".getBytes());
-				StackTraceElement[] ss = e.getStackTrace();
-				String res = "";
-				for(StackTraceElement s:ss){
-					res+=s.getClassName()+": ["+s.getLineNumber()+"] - "+s.getMethodName()+"\n";
-				}
-				
-				
-				fs.write((e.getMessage()+"\n"+res).getBytes());
-			} catch (FileNotFoundException e1) {
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			} catch (IOException e1) {
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			}finally{
-				try {
-					fs.close();
-				} catch (IOException e1) {
-					// TODO Auto-generated catch block
-					e1.printStackTrace();
-				}
-			}
-		}
+		cacheManager = CacheManager.create(url);
 		return cacheManager.getCache("patternCache");
 	}
 

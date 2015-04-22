@@ -1,9 +1,5 @@
 package com.zju.logservice.receiver;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
 import java.util.List;
 
 import org.hornetq.api.core.HornetQException;
@@ -31,33 +27,7 @@ public class ShutdownThread extends Thread {
 					cs.close();
 			} catch (HornetQException e) {
 				// TODO Auto-generated catch block
-				File f = new File(System.getProperty("user.home")+"/logservice/bugs.txt");
-				FileOutputStream fs = null;
-				try {
-					fs = new FileOutputStream(f,true);
-					fs.write("\n=================================================\n".getBytes());
-					StackTraceElement[] ss = e.getStackTrace();
-					String res = "";
-					for(StackTraceElement s:ss){
-						res+=s.getClassName()+": ["+s.getLineNumber()+"] - "+s.getMethodName()+"\n";
-					}
-					
-					
-					fs.write((e.getMessage()+"\n"+res).getBytes());
-				} catch (FileNotFoundException e1) {
-					// TODO Auto-generated catch block
-					e1.printStackTrace();
-				} catch (IOException e1) {
-					// TODO Auto-generated catch block
-					e1.printStackTrace();
-				}finally{
-					try {
-						fs.close();
-					} catch (IOException e1) {
-						// TODO Auto-generated catch block
-						e1.printStackTrace();
-					}
-				}
+				e.printStackTrace();
 			}
 		}
 		System.out.println("Done");

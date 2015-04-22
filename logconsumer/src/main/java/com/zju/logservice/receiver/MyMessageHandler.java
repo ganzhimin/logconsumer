@@ -1,11 +1,5 @@
 package com.zju.logservice.receiver;
 
-
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.IOException;
-
 import org.apache.log4j.Logger;
 import org.hornetq.api.core.HornetQException;
 import org.hornetq.api.core.client.ClientMessage;
@@ -27,53 +21,22 @@ public class MyMessageHandler implements MessageHandler {
 	@Override
 	public void onMessage(ClientMessage message) {
 		// TODO Auto-generated method stub
+		int count = message.getIntProperty("number");
+		String log = message.getStringProperty("log");
+		logAnalyser.processMsg(log, count);
 		try {
 			message.acknowledge();
 			session.commit();
 		} catch (HornetQException e) {
 			// TODO Auto-generated catch block
-			logger.error("HornetQException,this session will be closed");
-			
-			
-			File f = new File(System.getProperty("user.home")+"/hornetQBug.txt");
-			FileOutputStream fs = null;
+			logger.error("HornetQException,rollback this session");
 			try {
-				fs = new FileOutputStream(f,true);
-				fs.write("====HornetQException,this session will be closed====\n\n\n".getBytes());
-				StackTraceElement[] ss = e.getStackTrace();
-				String res = "";
-				for(StackTraceElement s:ss){
-					res+=s.getClassName()+": ["+s.getLineNumber()+"] - "+s.getMethodName()+"\n";
-				}
-				fs.write((e.getMessage()+"\n"+res).getBytes());
-			} catch (FileNotFoundException e1) {
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			} catch (IOException e1) {
-				// TODO Auto-generated catch block
-				e1.printStackTrace();
-			}finally{
-				try {
-					fs.close();
-				} catch (IOException e1) {
-					// TODO Auto-generated catch block
-					e1.printStackTrace();
-				}
-			}
-			
-			
-			
-			try {
-				session.close();
+				session.rollback();
 			} catch (HornetQException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
-			//e.printStackTrace();
 		}
-		int count = message.getIntProperty("number");
-		String log = message.getStringProperty("log");
-		logAnalyser.processMsg(log, count);
 	}
 
 }
