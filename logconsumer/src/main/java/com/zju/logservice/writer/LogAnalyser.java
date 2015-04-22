@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
+import net.sf.ehcache.CacheException;
 import net.sf.json.JSONObject;
 import oi.thekraken.grok.api.exception.GrokException;
 
@@ -83,29 +84,41 @@ public class LogAnalyser {
 		}
 	}
 
-	public void processMsg(String msg,int line){
+	public void processMsg(String msg,int line) throws Exception{
 		if (counter == null) {
 			counter = new Countdown(timeLength);
 		}
-		JSONObject jsonLog;
+		JSONObject jsonLog=null;
 		try {
 			jsonLog = JSONObject
 					.fromObject(lp.grokParse(msg, "MSG"));
-			if (!jsonLog.isEmpty() && jsonLog.getString("Source").equals("GP")) {
-				persistPatterns(jsonLog.getString("appid"));
-			} else if (!jsonLog.isEmpty()
-					&& jsonLog.getString("Source").equals("RP")) {
-				removePatterns(jsonLog.getString("appid"));
-			} else {
-				analyseLog(msg,line);
-			}
-		} catch (Exception e) {
+		} catch (GrokException e1) {
 			// TODO Auto-generated catch block
-			e.printStackTrace();
+			e1.printStackTrace();
 		}
 		
-		
+		if (!jsonLog.isEmpty() && jsonLog.getString("Source").equals("GP")) {
+			try{
+				persistPatterns(jsonLog.getString("appid"));
+			}catch(Exception e){
+				e.printStackTrace();
+			}
+		} else if (!jsonLog.isEmpty()
+				&& jsonLog.getString("Source").equals("RP")) {
+			try{
+				removePatterns(jsonLog.getString("appid"));
+			}catch(Exception e){
+				e.printStackTrace();
+			}
+		} else {
+			try{
+				analyseLog(msg,line);
+			}catch(Exception e){
+				throw e;
+			}
+		}	
 	}
+	
 	private Object persistPatterns(String appid) throws Exception {
 		String queryString = "appId=" + appid;
 		String patterns = HttpTookitEnhance.doGet(
@@ -138,7 +151,7 @@ public class LogAnalyser {
 		lp.removeAppPatterns(appid);	
 	}
 
-	public void analyseLog(String log,int line) {
+	public void analyseLog(String log,int line) throws Exception {
 		logger.info(this);
 		JSONObject jsonLog = null;
 
@@ -204,7 +217,14 @@ public class LogAnalyser {
 			LogParserUtil lp = new LogParserUtil();
 			//List<String> list = appPatterns.get(appid);
 			logger.info("get patterns from cache --------------"+appid);
-			Object object=patternCache.getData(appid);
+			Object object=null;
+			
+			try{
+				object=patternCache.getData(appid);
+			}catch(Exception e){
+				throw e;
+			}
+			
 			if(object==null){
 				try {
 				object=persistPatterns(appid);

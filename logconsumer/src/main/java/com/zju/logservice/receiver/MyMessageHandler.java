@@ -23,7 +23,20 @@ public class MyMessageHandler implements MessageHandler {
 		// TODO Auto-generated method stub
 		int count = message.getIntProperty("number");
 		String log = message.getStringProperty("log");
-		logAnalyser.processMsg(log, count);
+		try {
+			logAnalyser.processMsg(log, count);
+		} catch (Exception e2) {
+			// TODO Auto-generated catch block
+			e2.printStackTrace();
+			try {
+				session.rollback();
+				return;
+			} catch (HornetQException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		
 		try {
 			message.acknowledge();
 			session.commit();
