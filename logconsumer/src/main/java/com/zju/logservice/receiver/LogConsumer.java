@@ -29,8 +29,8 @@ public class LogConsumer{
 	
 	public LogConsumer(String host, String port,String consumerNum) throws Exception{
 		Map<String, Object> connParams = new HashMap<String, Object>();
-		connParams.put(TransportConstants.HOST_PROP_NAME, "10.10.105.107");
-		connParams.put(TransportConstants.PORT_PROP_NAME, "5445");
+		connParams.put(TransportConstants.HOST_PROP_NAME, host);
+		connParams.put(TransportConstants.PORT_PROP_NAME, port);
 		TransportConfiguration config = new TransportConfiguration(NettyConnectorFactory.class.getName(), connParams);
 
 		ServerLocator serverLocator = HornetQClient.createServerLocatorWithoutHA(config);

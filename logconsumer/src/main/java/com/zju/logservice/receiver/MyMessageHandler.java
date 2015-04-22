@@ -27,9 +27,6 @@ public class MyMessageHandler implements MessageHandler {
 	@Override
 	public void onMessage(ClientMessage message) {
 		// TODO Auto-generated method stub
-		int count = message.getIntProperty("number");
-		String log = message.getStringProperty("log");
-		logAnalyser.processMsg(log, count);
 		try {
 			message.acknowledge();
 			session.commit();
@@ -42,8 +39,13 @@ public class MyMessageHandler implements MessageHandler {
 			FileOutputStream fs = null;
 			try {
 				fs = new FileOutputStream(f,true);
-				fs.write("=================================================\n\n\n".getBytes());
-				fs.write(e.getMessage().getBytes());
+				fs.write("====HornetQException,this session will be closed====\n\n\n".getBytes());
+				StackTraceElement[] ss = e.getStackTrace();
+				String res = "";
+				for(StackTraceElement s:ss){
+					res+=s.getClassName()+": ["+s.getLineNumber()+"] - "+s.getMethodName()+"\n";
+				}
+				fs.write((e.getMessage()+"\n"+res).getBytes());
 			} catch (FileNotFoundException e1) {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
@@ -69,6 +71,9 @@ public class MyMessageHandler implements MessageHandler {
 			}
 			//e.printStackTrace();
 		}
+		int count = message.getIntProperty("number");
+		String log = message.getStringProperty("log");
+		logAnalyser.processMsg(log, count);
 	}
 
 }
