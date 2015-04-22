@@ -35,7 +35,7 @@ public class LogConsumer{
 
 		ServerLocator serverLocator = HornetQClient.createServerLocatorWithoutHA(config);
 		serverLocator.setReconnectAttempts(-1);
-		serverLocator.setConsumerWindowSize(-1);
+		serverLocator.setConsumerWindowSize(1024);
 		serverLocator.setBlockOnAcknowledge(false);
 		
 		csf = serverLocator.createSessionFactory();
