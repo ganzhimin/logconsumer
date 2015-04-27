@@ -27,8 +27,9 @@ public class MyMessageHandler implements MessageHandler {
 			logAnalyser.processMsg(log, count);
 		} catch (Exception e2) {
 			// TODO Auto-generated catch block
-			e2.printStackTrace();
+			//e2.printStackTrace();
 			try {
+				System.out.println("Exception occurs: "+e2.getMessage()+"\n this session will be rolled back");
 				session.rollback();
 				return;
 			} catch (HornetQException e) {

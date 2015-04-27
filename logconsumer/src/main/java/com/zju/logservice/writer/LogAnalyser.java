@@ -201,15 +201,16 @@ public class LogAnalyser {
 					buildFileName(appInstanceName, source, currentDate));
 		}
 
+		
+		HashMap<String, Object> filecontent = new HashMap<String, Object>();
 		/* send filecontent to elasticsearch */
 		if (source.indexOf("App") > -1) {
-			HashMap<String, Object> filecontent = new HashMap<String, Object>();
 			filecontent.put("fileName", fileNameMap.get(source));
 			filecontent.put("message", msg);
 			filecontent.put("app", appInstanceName);
 			filecontent.put("line", line);
 			filecontent.put("timestamp", DateUtils.format(new Date()));
-			ElasticsearchClient.getInstance().uploadLogFile(filecontent,appInstanceName);
+			//delay the uploading after confirming there is no exception
 		}
 
 		/* send appdata or routerdata to bamos and elasticsearch */
@@ -230,9 +231,12 @@ public class LogAnalyser {
 				object=persistPatterns(appid);
 				} catch (Exception e) {
 				logger.error("get patterns error");
-				e.printStackTrace();
+					throw e;
 				}
 			}
+			ElasticsearchClient.getInstance().uploadLogFile(filecontent,appInstanceName);
+			
+			
 			List<String> list = object==null?null:(List<String>)object ;
 			object=null;
 			Map<String, Object> map = null;
@@ -273,6 +277,7 @@ public class LogAnalyser {
 					}
 				}
 			}
+			
 		} else if (source.equals("RTR")) {
 			JSONObject routerLog;
 			try {
