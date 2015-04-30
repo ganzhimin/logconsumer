@@ -1,0 +1,796 @@
+17:49:01,958  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+17:49:01,973  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:49:02,131  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,217  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,218  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:49:02,228  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,258  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,259  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 1
+17:49:02,261  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,281  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,291  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 2
+17:49:02,295  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,310  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,311  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 3
+17:49:02,314  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,328  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,330  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 4
+17:49:02,332  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,347  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,347  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 5
+17:49:02,353  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,366  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,366  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 6
+17:49:02,368  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,384  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,385  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 7
+17:49:02,386  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,405  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,406  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 8
+17:49:02,412  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,429  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:49:02,430  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 9
+17:49:02,431  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:49:02,451  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,271  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+17:51:15,286  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:51:15,402  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,467  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,469  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:51:15,471  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,486  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,487  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 1
+17:51:15,490  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,507  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,508  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 2
+17:51:15,511  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,525  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,526  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 3
+17:51:15,527  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,539  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,541  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 4
+17:51:15,543  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,554  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,555  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 5
+17:51:15,557  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,569  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,570  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 6
+17:51:15,571  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,583  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,583  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 7
+17:51:15,584  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,596  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,596  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 8
+17:51:15,598  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,610  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:51:15,610  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 9
+17:51:15,612  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7c3fab7a
+17:51:15,623  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:05,874  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+17:54:17,935  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:54:24,911  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,020  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,023  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:54:25,026  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,059  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,059  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 1
+17:54:25,063  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,090  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,091  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 2
+17:54:25,093  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,105  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,106  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 3
+17:54:25,107  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,120  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,123  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 4
+17:54:25,125  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,141  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,141  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 5
+17:54:25,145  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,157  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,157  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 6
+17:54:25,159  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,171  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,171  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 7
+17:54:25,176  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,188  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,189  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 8
+17:54:25,191  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,203  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:54:25,203  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 9
+17:54:25,205  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@7383be62
+17:54:25,217  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:57:54,430  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+17:59:24,487  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:59:27,119  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:29,844  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,758  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 0
+17:59:58,761  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,776  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,776  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 1
+17:59:58,779  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,802  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,802  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 2
+17:59:58,804  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,816  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,817  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 3
+17:59:58,819  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,831  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,833  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 4
+17:59:58,834  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,846  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,847  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 5
+17:59:58,849  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,863  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,863  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 6
+17:59:58,865  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,878  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,878  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 7
+17:59:58,884  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,905  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,906  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 8
+17:59:58,907  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,919  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+17:59:58,920  INFO com.zju.logservice.receiver.MyMessageHandler:24 - 9
+17:59:58,921  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@5dbd3f6f
+17:59:58,934  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:25)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)

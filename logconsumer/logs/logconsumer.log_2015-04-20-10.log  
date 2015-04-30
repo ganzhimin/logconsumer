@@ -1,0 +1,1 @@
+10:12:44,318  INFO net.sf.ehcache.CacheManager:1157 - VM shutting down with the CacheManager still active. Calling shutdown.

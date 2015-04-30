@@ -1,0 +1,7 @@
+13:19:07,446  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:20:55,857  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@3aa3defc
+13:23:24,385  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:25:09,755  INFO org.elasticsearch.plugins:114 - [Match] loaded [], sites []
+13:25:10,344  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:25:23,113  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@3aa3defc
+13:25:28,481  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9

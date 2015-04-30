@@ -1,0 +1,218 @@
+18:05:24,133  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,142  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,152 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,155  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,156  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,156 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,156  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,157  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,157 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,158  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,158  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,158 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,162  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,163  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,163 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,164  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,166  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,166 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,167  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,167  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,167 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,168  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,168  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,169 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,169  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,170  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,170 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,170  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,171  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,171 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:05:24,171  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:05:24,172  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:05:24,172 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:07:13,122  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:07:13,141  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:12:17,836  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:12:17,851  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:12:22,771 ERROR com.zju.logservice.writer.LogAnalyser:102 - process message error
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParse(LogParserUtil.java:56)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:92)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:12:22,774  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:12:22,774  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:13:49,108  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:13:49,127  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+18:14:36,545  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@42fbc1f7
+18:14:38,910  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.HornetConsumer$1.onMessage(HornetConsumer.java:59)
+	at org.hornetq.jms.client.JMSMessageListenerWrapper.onMessage(JMSMessageListenerWrapper.java:98)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+18:14:38,917  INFO com.zju.logservice.receiver.HornetConsumer:57 - <14>1 2014-10-28T09:44:39+00:00 loggregator ab939119-f99c-41dc-b901-22da186564df [RTR] - - dotnetap.tianjin.paas - [28/10/2014:09:44:31 +0000] "GET / HTTP/1.1" 200 503 "http://172.31.42.54:28080/cfWeb/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.104 Safari/537.36" 172.31.42.28:56449 vcap_request_id:b8f77cd3aa169fa7f4da85fa40ec2042 response_time:0.006618517 app_id:ab939119-f99c-41dc-b901-22da186564df
+18:14:38,917  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!

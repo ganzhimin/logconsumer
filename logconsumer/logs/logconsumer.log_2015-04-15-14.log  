@@ -1,0 +1,14 @@
+14:45:06,209  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+14:55:38,703  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+14:57:01,825  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2f1b03b7
+14:57:11,916  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+14:57:14,253  INFO com.zju.logservice.writer.LogAnalyser:312 - 1
+14:57:14,949  INFO org.elasticsearch.plugins:114 - [Vapor] loaded [], sites []
+14:57:15,932  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+14:58:59,113  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2f1b03b7
+14:58:59,119  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+14:58:59,134  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+14:58:59,498  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+14:58:59,792  INFO com.zju.logservice.writer.LogAnalyser:236 - empty map
+14:58:59,793  INFO com.zju.logservice.writer.LogAnalyser:236 - empty map
+14:58:59,797  INFO com.zju.logservice.writer.LogAnalyser:239 - qqqq mathed

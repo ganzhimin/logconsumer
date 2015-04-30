@@ -1,0 +1,1378 @@
+16:00:08,166  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:08,168  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:08,174  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:08,176  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:08,177  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:08,177  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:08,188  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:08,189  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:08,219  INFO com.zju.logservice.writer.LogAnalyser:308 - 74
+16:00:08,238  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:08,239  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:08,247  INFO com.zju.logservice.writer.LogAnalyser:308 - 75
+16:00:17,030  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:17,031  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:17,043  INFO com.zju.logservice.writer.LogAnalyser:308 - 76
+16:00:17,079  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:17,080  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:17,089  INFO com.zju.logservice.writer.LogAnalyser:308 - 77
+16:00:17,105  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:17,106  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:17,110  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:17,113  INFO com.zju.logservice.writer.LogAnalyser:235 - ERROR mathed
+16:00:17,120  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:17,120  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:17,130  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:17,131  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:17,137  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:17,139  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:17,140  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:17,140  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:22,563  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:22,565  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:22,572  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:22,574  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:22,575  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:22,575  INFO com.zju.logservice.writer.LogAnalyser:232 - empty map
+16:00:22,587  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:22,588  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:22,599  INFO com.zju.logservice.writer.LogAnalyser:308 - 81
+16:00:22,612  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:00:22,613  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:00:22,621  INFO com.zju.logservice.writer.LogAnalyser:308 - 82
+16:21:43,508  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:21:43,509  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:21:43,524  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:21:43,525  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:21:43,540  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@6fa8859b
+16:21:43,541  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:21,637  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:37:21,858  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:21,924  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain2from databasee413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:21,943  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:21,947  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:21,959  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:21,964  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:21,996  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:22,000  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,080  INFO org.elasticsearch.plugins:114 - [Rex Mundi] loaded [], sites []
+16:37:22,622  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+16:37:22,658  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,755  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+16:37:22,862 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,866 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,867 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,894  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:22,897  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,904  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,909 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,910 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,911 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,920  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:22,923  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,929  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,934 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,935 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,936 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,946  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:22,949  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,953  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,958 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,959 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,960 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,967  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:22,970  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,974  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:22,978 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,979 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,980 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:22,992  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:22,995  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,000  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,005 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,006 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,006 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,017  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,020  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,024  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,029 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,030 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,031 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,042  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,045  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,049  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,056 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,057 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,057 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,068  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,071  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,075  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,080 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,080 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,081 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,096  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,099  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,103  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,107 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,108 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,108 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,138  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,141  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,147  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,151 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,152 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,156 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,172  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,175  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,179  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,182 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,183 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,184 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,196  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,198  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,202  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,205 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,206 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,206 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,217  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,219  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,223  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,228 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,229 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,229 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,235  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,240  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,244  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,247 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,247 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,248 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,259  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,261  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,264  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,269 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,269 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,270 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,276  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,278  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,282  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,292 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,293 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,294 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,301  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,303  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,307  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,310 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,310 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,311 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,319  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,321  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,325  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,327 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,328 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,328 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,334  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,336  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,340  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,342 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,343 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,343 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,351  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,353  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,357  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,359 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,360 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,361 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,367  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,369  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,371  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,373 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,374 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,374 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,384  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,386  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,389  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,394 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,396 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,396 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,422  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,424  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,426  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,429 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,429 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,430 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,442  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,444  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,447  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,450 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,450 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,451 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,460  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,462  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,464  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,467 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,467 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,468 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,475  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,477  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,481  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,483 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,483 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,484 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,492  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:37:23,493  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,496  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:37:23,499 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,500 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:37:23,500 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:39:28,710  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:45:53,757  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:46:11,389  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:46:34,109  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:46:40,765  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:46:47,637  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:46:50,517  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:46:56,669  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:46:57,861  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:47:02,157  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:47:03,117  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:47:10,253  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:47:35,277  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:50:10,885  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:55:27,790 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:56:27,662 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:56:32,446 ERROR com.zju.logservice.writer.LogAnalyser:251 - grok exception
+oi.thekraken.grok.api.exception.GrokException: Pattern not found
+	at com.zju.logservice.parser.MyGrok.addPatternFromFile(MyGrok.java:185)
+	at com.zju.logservice.parser.LogParserUtil.grokParseToMapForApp(LogParserUtil.java:80)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:229)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+16:56:58,286  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@44e00985
+16:57:04,910  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain2from mape413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:57:07,814  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------e413b7bd-8aed-4e44-81ce-ac1acd646df4
+16:59:44,726  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!

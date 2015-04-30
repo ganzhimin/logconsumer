@@ -1,0 +1,1 @@
+19:06:04,969  WARN org.hornetq.core.client:338 - HQ212037: Connection failure has been detected: HQ119015: The connection was disconnected because of server shutdown [code=DISCONNECTED]

@@ -1,0 +1,217 @@
+13:19:13,820  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:19:13,823  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:19:13,845  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:19:13,847  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:19:13,871  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:19:13,874  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:19:13,897  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:19:13,899  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:19:13,937  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:19:13,939  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:10,590  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:27:15,966  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:15,968  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:34,134  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:34,136  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:34,165  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:34,166  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:34,206  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:34,208  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:34,287  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:34,364  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:34,488  INFO org.elasticsearch.plugins:114 - [Caleb Alexander] loaded [], sites []
+13:27:35,011  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:27:35,056  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:35,065  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:35,117  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:35,119  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:35,148  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:35,150  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,364  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:39,366  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,440  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:39,444  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,445  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:39,447  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,472  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:39,475  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,482  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:39,484  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,509  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:39,510  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,525  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:39,529  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,531  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:39,533  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:39,564  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:39,566  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:45,981  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:27:45,983  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:27:48,005  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@152dab50
+13:27:48,007  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:06,246  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:32:12,363  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:32:12,365  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:12,394  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:32:12,397  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:12,423  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:32:12,425  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:12,480  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:32:12,482  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:12,515  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:32:12,517  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:12,538  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:32:12,636  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:12,695  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:32:12,782  INFO org.elasticsearch.plugins:114 - [Goldbug] loaded [], sites []
+13:32:13,302  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:32:13,351  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:32:13,360  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:13,382  INFO com.zju.logservice.writer.LogAnalyser:308 - 3
+13:32:13,397  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:32:13,400  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:13,415  INFO com.zju.logservice.writer.LogAnalyser:308 - 5
+13:32:13,430  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:32:13,433  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:13,448  INFO com.zju.logservice.writer.LogAnalyser:308 - 7
+13:32:13,464  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:32:13,468  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:32:13,477  INFO com.zju.logservice.writer.LogAnalyser:308 - 9
+13:32:59,711  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:33:10,002  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:33:10,004  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:33:10,170  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:33:10,251  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:33:10,307  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:33:10,374  INFO org.elasticsearch.plugins:114 - [Jean Grey] loaded [], sites []
+13:33:10,905  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:34:34,061  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:35:02,000  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:35:22,035  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@66cc8157
+13:35:22,049  INFO com.zju.logservice.writer.LogAnalyser:167 - get app name from database error
+org.postgresql.util.PSQLException: 查询结果指标位置不正确，您也许需要呼叫 ResultSet 的 next() 方法。
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.checkResultSet(AbstractJdbc2ResultSet.java:2695)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:1872)
+	at org.postgresql.jdbc2.AbstractJdbc2ResultSet.getString(AbstractJdbc2ResultSet.java:2405)
+	at com.zju.logservice.util.AppUtil.getAppNameById(AppUtil.java:49)
+	at com.zju.logservice.writer.LogAnalyser.analyseLog(LogAnalyser.java:164)
+	at com.zju.logservice.writer.LogAnalyser.processMsg(LogAnalyser.java:99)
+	at com.zju.logservice.receiver.MyMessageHandler.onMessage(MyMessageHandler.java:26)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.callOnMessage(ClientConsumerImpl.java:1085)
+	at org.hornetq.core.client.impl.ClientConsumerImpl.access$400(ClientConsumerImpl.java:57)
+	at org.hornetq.core.client.impl.ClientConsumerImpl$Runner.run(ClientConsumerImpl.java:1220)
+	at org.hornetq.utils.OrderedExecutorFactory$OrderedExecutor$1.run(OrderedExecutorFactory.java:106)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at java.lang.Thread.run(Thread.java:745)
+13:35:53,182  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:37:06,018  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:37:06,088  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:37:09,576  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:37:09,651  INFO org.elasticsearch.plugins:114 - [Carmella Unuscione] loaded [], sites []
+13:37:10,207  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:37:41,165  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:37:41,169  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:37:41,197  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:37:48,389  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:37:48,392  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:37:48,408  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:39:03,860  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:03,863  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:03,876  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:39:08,388  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:08,392  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:08,405  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:39:16,484  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:16,486  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:16,504  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:39:17,908  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:17,910  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:17,926  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:39:24,548  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:24,550  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:24,568  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:39:25,452  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:25,454  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:25,464  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:39:26,075  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:26,078  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:26,099  INFO com.zju.logservice.writer.LogAnalyser:308 - 2
+13:39:35,931  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:35,935  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:35,945  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:39:52,492  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:39:52,494  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:39:52,508  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:40:01,212  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:40:01,214  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:40:01,237  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:40:02,723  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@267f59c7
+13:40:02,725  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:40:02,739  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:50:36,309  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:50:48,786  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@2bbd2b60
+13:50:48,849  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:50:48,888  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:50:48,965  INFO org.elasticsearch.plugins:114 - [Kala] loaded [], sites []
+13:50:49,529  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:52:42,448  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:52:48,279  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:52:48,336  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:52:48,373  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:52:48,441  INFO org.elasticsearch.plugins:114 - [Hecate] loaded [], sites []
+13:52:48,937  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:52:48,971  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:52:48,976  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:52:49,006  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:52:49,020  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:52:49,022  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:52:49,033  INFO com.zju.logservice.writer.LogAnalyser:308 - 2
+13:52:49,045  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@778dd5
+13:52:49,048  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:52:49,062  INFO com.zju.logservice.writer.LogAnalyser:308 - 3
+13:53:51,106  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:53:58,023  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@106ac20f
+13:53:58,087  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:53:58,124  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:54:09,425  INFO org.elasticsearch.plugins:114 - [Meltdown] loaded [], sites []
+13:54:09,963  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:54:10,008  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@106ac20f
+13:54:10,012  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:54:10,044  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:54:10,940  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@106ac20f
+13:54:10,943  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:54:10,954  INFO com.zju.logservice.writer.LogAnalyser:308 - 2
+13:54:11,656  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@106ac20f
+13:54:11,659  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:54:11,677  INFO com.zju.logservice.writer.LogAnalyser:308 - 3
+13:55:12,297  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:55:17,227  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:17,287  INFO com.zju.logservice.writer.LogAnalyser:165 - tmpfrom databasec766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:17,323  INFO com.zju.logservice.writer.LogAnalyser:308 - 0
+13:55:17,390  INFO org.elasticsearch.plugins:114 - [Jessica Drew] loaded [], sites []
+13:55:17,888  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:55:17,920  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:17,925  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:17,956  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+13:55:17,969  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:17,972  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:17,982  INFO com.zju.logservice.writer.LogAnalyser:308 - 2
+13:55:17,994  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:17,996  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:18,012  INFO com.zju.logservice.writer.LogAnalyser:308 - 3
+13:55:18,019  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:18,022  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:18,032  INFO com.zju.logservice.writer.LogAnalyser:308 - 4
+13:55:18,044  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:18,046  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:18,056  INFO com.zju.logservice.writer.LogAnalyser:308 - 5
+13:55:18,069  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:18,075  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:18,086  INFO com.zju.logservice.writer.LogAnalyser:308 - 6
+13:55:18,093  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:55:18,095  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:55:18,109  INFO com.zju.logservice.writer.LogAnalyser:308 - 7
+13:59:16,138  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@29009b30
+13:59:16,140  INFO com.zju.logservice.writer.LogAnalyser:161 - tmpfrom mapc766dda2-e73b-4f8c-bf8f-a303244dc4b9
+13:59:16,148  INFO com.zju.logservice.writer.LogAnalyser:308 - 0

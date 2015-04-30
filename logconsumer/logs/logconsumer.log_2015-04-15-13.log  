@@ -1,0 +1,19 @@
+13:11:38,255  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:11:46,208  INFO com.zju.logservice.writer.LogAnalyser:135 - com.zju.logservice.writer.LogAnalyser@6abfc6e4
+13:11:46,277  INFO com.zju.logservice.writer.LogAnalyser:162 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:11:46,305  INFO com.zju.logservice.writer.LogAnalyser:305 - 1
+13:11:46,389  INFO org.elasticsearch.plugins:114 - [U-Go Girl] loaded [], sites []
+13:11:46,880  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:11:53,827  INFO com.zju.logservice.writer.LogAnalyser:135 - com.zju.logservice.writer.LogAnalyser@6abfc6e4
+13:11:53,841  INFO com.zju.logservice.writer.LogAnalyser:162 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:11:53,854  INFO com.zju.logservice.writer.LogAnalyser:205 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:11:53,946  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:11:54,149  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:11:54,149  INFO com.zju.logservice.writer.LogAnalyser:121 - ERROR stored
+13:11:54,149  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:11:54,149  INFO com.zju.logservice.writer.LogAnalyser:121 - EXCEPTION stored
+13:11:54,149  INFO com.zju.logservice.parser.LogParserUtil:103 - add pattern success!
+13:11:54,150  INFO com.zju.logservice.writer.LogAnalyser:121 - js4 stored
+13:11:54,171  INFO com.zju.logservice.writer.LogAnalyser:229 - empty map
+13:11:54,171  INFO com.zju.logservice.writer.LogAnalyser:229 - empty map
+13:11:54,173  INFO com.zju.logservice.writer.LogAnalyser:229 - empty map

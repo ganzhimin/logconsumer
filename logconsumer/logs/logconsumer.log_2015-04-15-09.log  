@@ -1,0 +1,17 @@
+09:30:11,092  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+09:31:23,848  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@74b317e5
+09:31:39,728  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+09:31:55,016  INFO com.zju.logservice.writer.LogAnalyser:308 - 1
+09:31:55,854  INFO org.elasticsearch.plugins:114 - [Scorpio] loaded [], sites []
+09:31:57,755  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+09:32:30,504  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@74b317e5
+09:32:43,393  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+09:33:28,289  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+09:33:31,091  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+09:33:55,608 ERROR com.zju.logservice.writer.LogAnalyser:214 - get patterns error
+09:34:09,088  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@74b317e5
+09:34:09,090  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+09:34:09,115  INFO com.zju.logservice.writer.LogAnalyser:308 - 3
+09:34:46,168  INFO com.zju.logservice.writer.LogAnalyser:138 - com.zju.logservice.writer.LogAnalyser@74b317e5
+09:34:49,653  INFO com.zju.logservice.writer.LogAnalyser:161 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+09:34:57,806  INFO com.zju.logservice.writer.LogAnalyser:208 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824

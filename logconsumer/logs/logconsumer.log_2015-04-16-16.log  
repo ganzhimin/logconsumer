@@ -1,0 +1,1818 @@
+16:09:54,139  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:10:07,248  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:15:54,888  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:16:04,111  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:16,105  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:16,171  INFO org.elasticsearch.plugins:114 - [Caber] loaded [], sites []
+16:16:16,735  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+16:16:16,769  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:16,868  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+16:16:16,972  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:16,975  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:16,978  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,003  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,019  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:16:17,024  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,030  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,032  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,033  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,050  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,054  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,058  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,063  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,064  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,065  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,075  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,078  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,082  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,087  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,088  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,089  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,100  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,102  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,106  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,111  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,112  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,114  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,125  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,128  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,131  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,136  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,137  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,138  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,150  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,152  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,155  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,159  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,160  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,161  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,175  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,177  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,181  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,188  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,189  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,190  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,204  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,206  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,209  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,214  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,215  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,217  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,225  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,228  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,232  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,238  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,239  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,240  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,250  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,252  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,255  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,260  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,261  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,262  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,280  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,282  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,285  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,290  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,291  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,292  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,301  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,303  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,306  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,310  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,311  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,312  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,325  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,328  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,330  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,337  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,338  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,341  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,350  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,352  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,355  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,358  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,359  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,360  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,376  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,382  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,385  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,390  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,391  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,392  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,399  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,401  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,404  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,407  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,408  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,409  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,416  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,423  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,426  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,431  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,432  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,432  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,441  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,443  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,446  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,448  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,449  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,450  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,458  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,459  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,462  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,465  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,465  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,466  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,474  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,476  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,479  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,482  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,483  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,483  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,499  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,501  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,504  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,506  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,507  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,507  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,516  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,518  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,520  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,523  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,523  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,524  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,533  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,535  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,538  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,540  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,541  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,542  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,549  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,551  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,554  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,556  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,557  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,557  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,566  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,568  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,570  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,572  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,573  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,574  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,583  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,584  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,587  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,589  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,590  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,591  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,599  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,601  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,604  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,606  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,607  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,607  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,616  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,618  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,620  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,623  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,623  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,624  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,632  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,634  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,637  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,640  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,640  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,641  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,649  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,651  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,654  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,657  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,657  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,658  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,666  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,667  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,671  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,673  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,674  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,674  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,683  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,685  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,688  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,691  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,691  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,692  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,708  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,709  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,713  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,715  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,716  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,716  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,724  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,726  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,729  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,732  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,732  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,733  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,749  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,751  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,759  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,761  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,761  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,762  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,774  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,776  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,779  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,782  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,782  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,783  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,791  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,793  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,796  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,799  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,800  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,800  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,807  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,809  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,812  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,814  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,815  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,815  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,824  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,826  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,829  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,831  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,832  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,833  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,841  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,842  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,846  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,849  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,850  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,850  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,857  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,859  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,862  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,864  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,865  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,865  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,874  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,876  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,879  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,881  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,882  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,883  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,891  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,893  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,897  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,902  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,903  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,903  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,918  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,921  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,924  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,924  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,925  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,933  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,934  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,938  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,940  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,941  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,942  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,949  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,951  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,954  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,956  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,957  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,958  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,966  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,967  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:17,971  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:17,974  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,974  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,975  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:17,983  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:17,984  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,987  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:17,990  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,990  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:17,991  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:17,999  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,001  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,005  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,007  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,008  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,008  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,016  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,017  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,021  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,024  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,024  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,025  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,041  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,042  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,046  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,053  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,053  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,054  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,066  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,067  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,070  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,073  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,073  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,074  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,082  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,084  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,087  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,089  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,090  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,091  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,099  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,101  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,105  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,108  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,108  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,109  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,121  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,125  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,129  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,131  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,131  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,132  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,149  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,151  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,157  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,159  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,159  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,160  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,174  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,175  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,178  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,180  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,180  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,181  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,199  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,200  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,205  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,207  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,208  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,208  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,224  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,225  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,228  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,231  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,231  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,232  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,241  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,242  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,246  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,248  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,248  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,249  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,266  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,267  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,272  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,274  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,274  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,275  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,282  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,284  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,287  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,289  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,289  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,290  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,299  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,300  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,303  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,305  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,306  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,306  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,316  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,317  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,320  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,323  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,323  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,324  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,332  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,334  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,337  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,339  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,340  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,340  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,357  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,359  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,362  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,365  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,365  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,366  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,374  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,375  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,380  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,382  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,382  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,383  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,399  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,400  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,418  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,421  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,421  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,422  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,432  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,434  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,437  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,440  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,440  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,441  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,457  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,459  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,461  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,464  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,464  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,465  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,482  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,484  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,488  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,490  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,491  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,492  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,507  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,509  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,515  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,517  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,518  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,518  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,532  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,534  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,539  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,542  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,542  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,543  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,557  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,558  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,562  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,565  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,565  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,566  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,574  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,575  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,579  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,581  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,582  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,582  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,599  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,600  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,603  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,605  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,605  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,606  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,616  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,617  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,623  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,627  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,628  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,628  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,641  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,642  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,645  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,647  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,648  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,648  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,657  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,659  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,661  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,663  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,664  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,665  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,674  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,675  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,679  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,682  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,682  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,683  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,699  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,700  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,706  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,708  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,709  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,709  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,724  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,725  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,729  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,732  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,732  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,733  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,749  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,750  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,756  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,758  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,759  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,759  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,774  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,775  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,779  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,781  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,782  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,783  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,799  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,800  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,806  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,808  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,809  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,809  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:18,824  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,825  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,828  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:18,830  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,831  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,831  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:18,849  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:18,850  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:18,856  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:18,858  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,859  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:18,860  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,091  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,092  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,100  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,102  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,103  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,103  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,116  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,117  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,126  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,128  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,128  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,129  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,141  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,142  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,148  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,150  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,151  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,151  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,166  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,167  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,172  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,174  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,174  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,182  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,199  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,200  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,205  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,207  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,207  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,208  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,216  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,217  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,223  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,225  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,226  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,226  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,241  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,242  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,249  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,252  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,252  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,253  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,266  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,267  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,272  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,275  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,275  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,276  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,291  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,294  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,301  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,303  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,303  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,304  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,316  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,317  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,322  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,324  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,325  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,325  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,341  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,342  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,346  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,348  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,349  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,350  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,366  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,367  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,372  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,374  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,375  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,375  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,391  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,392  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,397  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,399  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,400  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,400  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,417  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,418  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,423  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,425  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,426  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,426  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,441  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,442  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,447  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,449  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,449  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,450  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,466  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,467  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,475  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,477  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,477  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,478  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,491  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,492  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,496  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,498  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,498  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,499  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,507  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,508  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,513  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,515  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,515  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,516  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,532  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,533  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,537  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,539  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,539  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,540  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,549  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,550  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,553  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,555  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,555  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,556  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,582  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,583  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,588  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,590  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,590  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,591  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,607  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,608  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,615  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,617  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,618  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,618  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,632  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,633  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,637  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,639  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,640  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,640  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,649  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,650  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,655  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,657  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,658  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,658  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,674  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,675  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,679  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,681  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,681  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,682  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,699  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,700  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,703  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,705  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,705  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,706  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,716  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,717  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,723  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,725  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,725  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,726  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,741  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,742  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,749  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,751  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,751  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,752  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,766  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,767  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,773  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,775  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,775  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,776  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,791  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,792  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,794  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,796  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,797  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,797  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,807  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,808  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,813  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,815  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,815  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,816  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,824  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,825  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,828  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,830  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,831  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,831  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,849  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,850  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,856  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,858  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,858  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,858  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,874  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,875  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,882  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,884  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,884  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,885  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,899  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,900  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,906  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,908  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,908  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,909  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,924  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,925  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,929  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,931  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,932  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,932  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,949  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,950  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,955  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,957  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,957  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,958  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:19,966  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,967  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:19,969  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:19,971  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,972  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,972  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:19,983  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:19,984  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,987  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:19,989  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,989  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:19,990  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,007  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,008  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,013  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,015  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,015  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,025  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,041  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,042  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,044  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,046  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,047  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,047  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,057  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,058  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,062  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,064  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,065  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,065  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,074  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,075  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,077  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,079  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,080  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,080  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,091  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,092  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,095  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,097  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,098  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,098  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,107  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,108  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,111  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,113  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,113  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,114  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,124  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,125  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,129  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,131  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,132  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,133  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,149  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,150  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,153  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,155  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,156  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,157  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,166  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,167  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,170  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,172  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,173  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,173  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,182  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,183  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,187  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,189  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,189  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,190  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,199  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,200  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,205  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,207  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,208  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,208  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,224  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,225  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,228  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,234  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,235  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,236  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,249  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,250  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,257  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,259  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,260  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,260  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,274  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,275  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,278  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,280  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,281  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,281  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,299  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,300  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,304  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,306  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,307  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,307  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,316  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,317  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,319  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,322  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,322  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,323  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,332  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,335  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,338  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,340  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,340  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,341  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,349  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,350  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,353  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,355  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,355  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,356  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,365  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,366  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,369  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,371  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,371  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,372  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,382  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,383  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,386  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,388  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,388  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,389  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,399  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,400  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,406  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,408  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,409  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,410  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,441  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,442  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,447  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,449  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,450  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,450  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,457  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,458  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,461  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,463  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,463  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,464  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,474  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,475  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,478  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,480  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,480  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,481  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,491  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,492  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,498  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,500  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,500  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,501  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,516  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,517  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,520  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,521  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,522  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,522  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,532  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,533  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,537  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,540  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,540  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,541  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,557  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,558  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,563  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,565  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,565  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,566  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,574  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,575  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,578  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,580  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,580  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,581  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,591  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,591  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,595  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,597  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,598  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,598  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,607  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,608  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,611  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,613  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,613  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,614  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,624  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,625  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,628  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,630  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,630  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,631  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,641  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,642  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,645  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,647  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,648  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,648  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,666  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,666  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,670  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,672  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,672  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,673  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,682  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,683  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,688  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,690  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,690  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,691  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,707  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,709  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,719  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,721  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,721  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,721  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,732  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,735  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,742  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,744  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,744  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,744  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,757  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,758  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,762  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,764  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,764  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,764  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,774  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,775  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,778  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,780  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,780  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,781  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,791  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,792  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,796  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,798  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,798  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,799  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,816  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,816  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,821  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,823  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,824  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,824  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,841  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,842  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,847  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,849  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,850  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,850  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,866  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,867  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,872  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,874  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,874  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,874  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,882  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,883  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,887  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,889  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,889  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,890  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,899  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,900  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,906  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,908  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,908  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,909  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,924  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,925  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,928  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,930  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,931  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,931  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,949  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,950  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:20,953  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:20,955  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,956  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,957  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:20,974  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:20,975  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,980  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:20,982  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,983  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:20,983  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:20,999  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,000  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,008  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,010  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,011  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,011  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,032  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,033  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,038  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,040  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,041  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,041  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,049  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,050  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,056  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,058  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,058  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,059  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,074  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,075  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,078  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,080  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,081  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,081  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,091  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,092  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,097  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,099  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,099  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,100  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,116  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,116  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,120  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,121  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,122  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,122  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,132  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,133  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,137  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,138  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,139  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,139  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,157  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,158  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,163  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,165  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,165  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,165  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,174  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,175  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,178  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,180  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,180  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,181  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,190  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,191  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,197  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,199  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,199  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,200  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,215  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,216  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,222  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,223  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,224  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,224  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,232  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,233  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,237  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,239  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,239  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,240  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,249  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,250  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,255  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,263  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,263  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,264  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,274  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,275  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,278  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,280  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,280  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,280  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,299  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,300  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,306  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,308  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,308  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,309  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,324  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,325  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,330  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,331  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,332  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,332  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,349  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,350  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,356  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,358  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,359  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,360  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,374  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,375  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,379  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,381  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,381  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,382  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,391  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,391  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,398  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,399  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,400  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,400  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,416  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,417  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,423  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,424  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,425  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,425  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,440  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,441  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,446  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,448  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,448  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,449  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,474  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,475  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,480  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,481  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,482  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,482  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,490  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,491  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,495  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,503  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,503  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,504  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,516  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,517  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,522  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,524  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,524  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,525  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,532  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,533  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,539  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,541  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,541  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,542  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,557  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,558  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,563  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,565  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,565  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,565  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,574  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,575  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,583  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,585  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,585  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,586  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,599  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,600  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,607  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,608  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,609  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,609  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,625  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,626  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,633  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,634  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,635  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,635  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,649  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,650  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,654  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,655  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,656  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,656  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,665  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,666  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,670  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,671  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,672  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,672  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,682  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,683  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,687  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,689  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,689  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,690  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,699  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,700  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,704  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,706  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,706  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,707  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,724  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,725  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,729  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,731  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,732  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,732  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,740  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,741  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,745  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,747  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,747  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,748  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,757  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,758  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,761  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,763  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,764  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,764  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,774  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,775  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,778  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,781  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,781  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,782  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,790  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,791  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,798  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,799  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,800  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,801  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,816  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,817  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,821  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,823  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,824  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,824  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,832  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,833  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,837  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,839  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,840  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,840  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,849  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,850  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,855  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,857  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,858  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,858  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,865  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,866  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,873  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,874  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,875  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,875  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,891  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,892  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,896  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,898  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,898  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,899  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,907  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,908  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,912  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,914  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,915  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,915  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,924  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,925  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,930  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,932  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,933  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,933  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,940  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,941  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,947  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,948  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,949  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,949  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,957  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,958  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:21,967  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:21,969  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,970  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,970  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:21,982  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:21,984  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,988  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:21,989  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,990  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:21,990  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:21,999  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,000  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,003  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,004  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,005  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,005  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,015  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,016  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,025  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,027  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,028  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,028  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,040  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,042  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,046  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,048  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,049  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,049  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,057  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,058  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,064  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,065  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,066  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,066  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,074  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,075  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,082  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,083  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,084  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,084  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,099  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,100  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,106  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,108  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,108  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,108  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,115  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,116  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,120  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,121  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,122  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,122  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,132  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,133  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,139  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,145  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,145  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,146  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,157  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,158  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,165  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,166  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,167  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,167  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,190  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,191  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,194  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,196  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,196  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,197  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,207  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,208  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,212  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,214  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,214  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,214  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,224  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,225  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,227  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,229  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,229  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,230  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,241  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,242  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,251  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,252  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,253  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,253  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,266  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,267  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,269  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,271  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,271  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,272  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,282  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,283  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,285  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,287  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,292  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,292  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,308  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,309  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,311  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,313  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,314  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,314  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,324  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,325  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,327  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,329  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,329  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,330  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,340  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,341  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,344  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,345  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,346  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,346  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,357  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,358  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,360  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,362  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,362  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,363  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,374  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,375  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,378  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,379  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,380  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,380  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,390  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,392  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,394  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,396  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,397  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,397  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,407  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,408  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,412  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,414  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,414  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,415  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,424  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,425  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,429  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,431  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,431  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,432  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,440  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,441  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,444  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,445  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,446  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,446  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,457  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,458  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,462  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,464  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,464  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,465  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,474  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,475  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,477  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,479  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,479  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,479  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,490  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,491  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,497  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,499  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,499  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,500  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,507  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,508  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,510  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,512  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,512  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,513  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,524  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,525  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,530  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,532  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,532  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,532  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,541  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,543  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,545  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,545  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,546  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,557  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,558  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,562  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,564  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,564  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,564  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,574  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,575  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,578  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,580  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,580  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,581  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,591  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,591  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,594  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,596  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,596  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,596  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,607  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,608  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,611  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,612  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,613  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,613  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,624  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,625  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,629  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,630  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,631  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,631  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,649  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,650  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,654  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,656  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,656  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,657  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,665  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,666  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,670  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,672  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,672  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,672  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,682  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,683  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,686  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,688  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,688  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,689  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,699  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,700  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,706  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,708  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,708  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,708  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,724  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,725  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,729  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,731  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,732  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,732  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,749  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,752  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,756  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,758  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,758  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,758  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,765  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,766  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,770  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,771  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,772  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,772  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,782  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,784  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,787  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,789  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,790  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,790  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,807  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,808  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,811  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,813  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,813  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,813  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,824  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,825  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,828  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,829  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,830  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,830  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,840  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,841  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,844  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,846  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,846  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,847  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,857  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,858  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,861  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,862  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,863  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,863  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,874  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,875  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,877  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,879  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,879  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,880  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,891  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,891  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,895  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,896  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,897  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,897  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,907  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,908  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,911  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,912  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,913  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,913  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,924  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,925  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,928  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,929  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,929  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,930  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,941  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,942  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,947  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,949  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,949  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,950  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,957  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,958  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,961  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,963  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,964  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,964  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:16:22,974  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,975  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,979  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:16:22,980  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,981  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,981  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+16:16:22,990  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@2bf4dee7
+16:16:22,991  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+16:16:22,994  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:16:22,996  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,997  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+16:16:22,997  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+16:46:25,027  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:47:01,951  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:48:03,022  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:53:29,364  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:53:33,709  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,710  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,710  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,710  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,710  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,710  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,728  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,728  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,728  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,728  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,735  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,739  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,728  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,728  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,735  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,735  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,735  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,735  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,735  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,735  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@25f67136
+16:53:33,912  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,912  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,912  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,912  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,915  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,916  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,922  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,924  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,925  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,928  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,930  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,935  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,937  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,939  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,940  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,942  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,946  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,948  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:53:33,949  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,950  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:33,990  INFO org.elasticsearch.plugins:114 - [Gypsy Moth] loaded [], sites []
+16:53:34,511  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+16:53:34,545  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,545  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,545  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,546  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,547  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,548  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,548  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,548  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,548  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,549  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,548  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,549  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,549  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,550  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,550  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,550  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,550  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,551  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:53:34,551  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:53:34,552  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:29,893  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:55:36,471  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,471  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,471  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,479  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,488  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,491  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,491  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,488  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,488  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,487  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8f8a786
+16:55:36,642  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,643  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,642  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,643  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,645  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,646  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,648  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,649  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,654  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,655  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,657  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,658  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,658  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,659  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,659  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,663  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,665  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,673  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:36,678  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,678  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:55:36,713  INFO org.elasticsearch.plugins:114 - [Hepzibah] loaded [], sites []
+16:55:37,214  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+16:55:37,249  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,250  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,251  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,251  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,251  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,251  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,251  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,253  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,253  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,252  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+16:55:37,255  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:55:37,256  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:57:00,995  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:57:12,115  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@71d36bf2
+16:57:19,655  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@71d36bf2
+16:57:26,145  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:57:30,911  INFO org.elasticsearch.plugins:114 - [Lucas Brand] loaded [], sites []
+16:57:32,751  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+16:57:37,152  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:58:13,699  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+16:58:29,157  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@397ac43d
+16:58:31,888  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+16:58:40,856  INFO org.elasticsearch.plugins:114 - [Cassie Lang] loaded [], sites []
+16:58:41,432  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+16:58:44,093  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@397ac43d
+16:58:50,990  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+16:58:58,411  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531

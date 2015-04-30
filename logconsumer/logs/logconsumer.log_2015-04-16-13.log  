@@ -1,0 +1,296 @@
+13:10:28,087  INFO net.sf.ehcache.CacheManager:1157 - VM shutting down with the CacheManager still active. Calling shutdown.
+13:59:18,315  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,917  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,919  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,920  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,921  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,916  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,923  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,921  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,921  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,920  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,920  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,920  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,920  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:31,920  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:32,081  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:32,083  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:32,083  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:32,083  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:32,083  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:32,163  INFO org.elasticsearch.plugins:114 - [Jacqueline Falsworth] loaded [], sites []
+13:59:32,659  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+13:59:32,699  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:32,699  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:32,701  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:32,701  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:32,701  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:32,812  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:32,833  WARN net.sf.ehcache.store.disk.DiskStorageFactory:174 - The index for data file /tmp/logPattern/pattern%0043ache.data is out of date, probably due to an unclean shutdown. Deleting index file /tmp/logPattern/pattern%0043ache.index
+13:59:33,049  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,054  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,056  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,058  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,060  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,061  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,061  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,063  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,065  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,064  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,069  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,070  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,071  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,073  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,074  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,074  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,074  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,077  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,077  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,080  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,091  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,091  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,094  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:59:33,095  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+13:59:33,095  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:59:33,095  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+13:59:33,096  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,096  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:59:33,096  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+13:59:33,097  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:js4 already exists !
+13:59:33,097  INFO com.zju.logservice.writer.LogAnalyser:128 - js4 stored
+13:59:33,098  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,099  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,100  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,101  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:59:33,101  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+13:59:33,101  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:59:33,101  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+13:59:33,102  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:59:33,102  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+13:59:33,103  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:59:33,103  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+13:59:33,103  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:js4 already exists !
+13:59:33,104  INFO com.zju.logservice.writer.LogAnalyser:128 - js4 stored
+13:59:33,104  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain4from databasef057bccd-7889-4655-9a10-291fade9c531
+13:59:33,104  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+13:59:33,104  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+13:59:33,104  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,105  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:59:33,105  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+13:59:33,106  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:59:33,106  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+13:59:33,107  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:33,107  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+13:59:33,107  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+13:59:33,111  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:33,097  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:33,117  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:59:33,117  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+13:59:33,118  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+13:59:33,118  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+13:59:33,162  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:33,164  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:59:33,164  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+13:59:33,165  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:59:33,165  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+13:59:33,166  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+13:59:33,166  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+13:59:33,212 ERROR com.zju.logservice.writer.LogAnalyser:212 - get patterns error
+13:59:33,212 ERROR com.zju.logservice.writer.LogAnalyser:212 - get patterns error
+13:59:33,217  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+13:59:33,217  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+13:59:33,217  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+13:59:33,217  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+13:59:33,218  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:js4 already exists !
+13:59:33,218  INFO com.zju.logservice.writer.LogAnalyser:128 - js4 stored
+13:59:33,220  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:33,251  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,252  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,254  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,258  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:33,285  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,286  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,293  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:33,294  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,323  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,323  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,323  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,324  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,325  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,326  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,325  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,325  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,324  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,328  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,329  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,329  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,324  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,324  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,324  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,330  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,331  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,331  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,331  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,331  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,327  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,334  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,334  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,333  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,334  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,333  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,336  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,336  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,337  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,333  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,336  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,337  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,338  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,338  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,340  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,338  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,341  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,342  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:33,343  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,343  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,344  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,345  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,345  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,346  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,347  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:33,349  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,351  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:33,352  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,187  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,189  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,194  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,195  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,197  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,203  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,204  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,205  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,207  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,209  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,212  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,213  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,217  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,220  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,222  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,225  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,229  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,232  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,234  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,234  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,234  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,235  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,235  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,235  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,238  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,238  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,238  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,237  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,236  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,236  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,239  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,239  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,240  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,240  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,238  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,241  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,244  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,246  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,261  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,263  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,266  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,268  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,268  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,277  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,277  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,283  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,283  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,286  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,297  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,298  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,303  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,313  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,315  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,316  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,316  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,317  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,318  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,324  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,347  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,348  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,348  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,350  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,352  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,354  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,361  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,372  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,373  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,377  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,389  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,390  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,392  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,392  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,393  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,393  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,393  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,394  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,395  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,396  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,397  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,400  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,401  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,416  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,416  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,417  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,417  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,418  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,418  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,420  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,421  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,424  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,430  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,447  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,447  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,448  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,470  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,471  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,475  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,480  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,486  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,488  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,491  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,495  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,497  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,497  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,498  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,498  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,498  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,499  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,499  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+13:59:39,505  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,506  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain3from map8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,507  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,510  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+13:59:39,515  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,528  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@62543f11
+13:59:39,530  INFO com.zju.logservice.writer.LogAnalyser:165 - jsdomain4from mapf057bccd-7889-4655-9a10-291fade9c531
+13:59:39,533  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------f057bccd-7889-4655-9a10-291fade9c531
+13:59:39,548  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,549  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,549  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,553  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+13:59:39,568  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,568  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,569  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,569  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+13:59:39,570  INFO com.zju.logservice.writer.LogAnalyser:234 - js4 mathed
+13:59:39,570  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed

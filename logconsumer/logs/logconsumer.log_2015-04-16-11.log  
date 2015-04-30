@@ -1,0 +1,294 @@
+11:14:09,473  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:22,935  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@8373b5c
+11:14:23,109  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,111  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,111  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,111  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,111  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,111  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,122  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,122  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,122  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,122  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,204  INFO org.elasticsearch.plugins:114 - [Frankie and Victoria] loaded [], sites []
+11:14:23,725  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+11:14:23,759  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,759  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,760  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,760  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,769  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,769  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,770  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,770  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,770  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,770  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:14:23,954  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,955  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,956  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,956  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,957  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,957  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,958  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,958  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,958  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,958  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,958  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,959  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,959  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,959  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,959  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,959  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,960  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,960  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,960  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,960  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,961  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,961  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,961  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,961  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,961  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,962  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,962  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,964  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,964  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,965  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,965  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,958  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,966  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,966  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,967  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,967  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,968  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,968  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,968  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,968  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,969  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,969  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,969  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,969  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,970  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,970  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,965  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:14:23,966  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,971  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,971  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,971  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,972  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,972  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,971  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:14:23,973  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,973  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:23,973  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:14:23,973  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:14:23,974  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:14:23,974  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:14:24,081  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+11:14:24,194 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,196 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,197 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,197 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,197 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,197 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,197 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,197 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,197 ERROR com.zju.logservice.writer.LogAnalyser:219 - get patterns error
+11:14:24,199  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:14:24,200  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:14:24,204  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:31,143  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,540  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,555  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,559  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@7877712c
+11:15:35,705  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,705  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,705  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,705  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,705  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,706  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,709  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,710  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,718  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,718  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:35,792  INFO org.elasticsearch.plugins:114 - [Fateball] loaded [], sites []
+11:15:36,293  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+11:15:36,329  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,329  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,330  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,330  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,330  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,330  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,331  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,331  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,334  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,344  INFO com.zju.logservice.writer.LogAnalyser:212 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:15:36,515  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,515  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,523  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,523  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,526  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,526  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,526  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,526  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,527  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,527  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,531  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,531  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,533  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,533  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,534  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,534  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,536  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,536  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,536  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,536  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,537  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,538  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,539  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,539  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,540  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,550  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,559  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,560  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,558  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,556  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,561  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,562  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,562  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,562  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,563  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,563  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,563  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,564  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,564  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,554  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,564  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,564  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,564  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,565  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,565  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,565  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,566  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,566  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,567  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,567  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,568  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,569  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,552  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,569  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,554  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,571  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,552  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,571  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,572  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,572  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,572  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,573  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,573  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,574  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,574  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,575  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,577  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,578  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,571  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,565  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,560  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:ERROR already exists !
+11:15:36,580  INFO com.zju.logservice.writer.LogAnalyser:128 - ERROR stored
+11:15:36,580  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,582  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:EXCEPTION already exists !
+11:15:36,582  INFO com.zju.logservice.writer.LogAnalyser:128 - EXCEPTION stored
+11:15:36,582  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,583  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,583  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,584  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,585  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,576  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,576  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,582  INFO com.zju.logservice.parser.LogParserUtil:105 - patternName:qqqq already exists !
+11:15:36,585  INFO com.zju.logservice.writer.LogAnalyser:128 - qqqq stored
+11:15:36,586  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,587  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,589  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,589  INFO com.zju.logservice.writer.LogAnalyser:238 - empty map
+11:15:36,592  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:15:36,595  INFO com.zju.logservice.writer.LogAnalyser:241 - qqqq mathed
+11:23:03,401  INFO com.zju.logservice.writer.LogAnalyser:80 - Read configuration file successfully!
+11:23:07,230  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,230  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,248  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,248  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,248  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,248  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,248  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,248  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,248  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,255  INFO com.zju.logservice.writer.LogAnalyser:142 - com.zju.logservice.writer.LogAnalyser@38509e85
+11:23:07,389  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:07,389  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:07,399  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:07,460  INFO org.elasticsearch.plugins:114 - [Epoch] loaded [], sites []
+11:23:07,961  INFO com.zju.logservice.util.ElasticsearchClient:29 - init es client success!
+11:23:07,998  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:07,998  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:07,998  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,112  INFO net.sf.ehcache.CacheManager:1147 - The CacheManager shutdown hook is enabled because net.sf.ehcache.enableShutdownHook is set to true.
+11:23:08,201  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,201  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,207  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,215  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,216  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,217  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,221  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,221  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,222  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,364  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,366  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,367  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,368  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,369  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,370  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,370  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,370  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,371  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,371  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,371  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,372  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,372  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,373  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,373  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,374  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,374  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,374  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,375  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,376  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,376  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,377  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,377  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,378  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,378  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,380  INFO com.zju.logservice.writer.LogAnalyser:169 - jsdomain3from database8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,380  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,381  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,382  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,382  INFO com.zju.logservice.writer.LogAnalyser:206 - get patterns from cache --------------8bb4f321-85d1-449a-8be4-2a7b7ee9a824
+11:23:08,385  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,386  INFO com.zju.logservice.writer.LogAnalyser:231 - empty map
+11:23:08,387  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,388  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:23:08,388  INFO com.zju.logservice.writer.LogAnalyser:234 - qqqq mathed
+11:24:09,984  INFO net.sf.ehcache.CacheManager:1157 - VM shutting down with the CacheManager still active. Calling shutdown.
